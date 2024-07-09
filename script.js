@@ -85,7 +85,7 @@ function page3VideoAnimation() {
     })
 }
 page3VideoAnimation()
-//navAnimation()
+navAnimation()
 
-//page2Animation();
+page2Animation();
 
